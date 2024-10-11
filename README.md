@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @IngChesterW
-- 👀 I’m interested in cibersecurity, im one of the best..
-- 🌱 I’m currently learning CCNP security, data science and fluent english 
-- 💞️ I’m looking to collaborate on big projects, i need to proof my self with heavy works on software testing and development 
-Linkedin profile ->https://www.linkedin.com/in/chester-hurtado-4aa06622b
+im development analyst on Clinica Angel Foianini, i have 4 years of experience, im one of the best on cybersecurity, on 2021 i where on top 100 on hack the box and have a lot of cybersecurity cisco badges and other companys certifications
